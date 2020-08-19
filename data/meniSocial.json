@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "link":"http://instagram.com",
+        "ico":"fa fa-instagram soc",
+        "title":"Insagram"
+    },
+    {
+        "id":2,
+        "link":"https://www.facebook.com/",
+        "ico":"fa fa-facebook soc",
+        "title":"Facebook"
+    },
+    {
+        "id":3,
+        "link":"https://twitter.com/",
+        "ico":"fa fa-twitter soc",
+        "title":"Twitter"
+    },
+    {
+        "id":4,
+        "link":"https://pinterest.com",
+        "ico":"fa fa-pinterest-p soc",
+        "title":"Pinterest"
+    },
+    {
+        "id":5,
+        "link":"https://plus.google.com",
+        "ico":"fa fa-google-plus soc",
+        "title":"Google +"
+    }
+]
